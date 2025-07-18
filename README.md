@@ -1,4 +1,4 @@
-# QuickMart - MERN ECommerce App
+# QuickMart - MERN eCommerce App
 
 Welcome to **QuickMart**, a fully-featured e-commerce web application built using the **MERN** (MongoDB, Express.js, React, Node.js) stack. This project demonstrates the development of a complete e-commerce platform including features like product listing, cart, user authentication, admin dashboard, product management, and checkout process.
 
